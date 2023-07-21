@@ -1,0 +1,12 @@
+Source: text-edit-dbus
+Section: utils
+Priority: standart
+Maintainer: FAT33 <fat33@rambler.ru>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: <insert the upstream URL, if relevant>
+
+Package: text-edit-dbus
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: text-edit-dbus
